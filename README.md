@@ -1,15 +1,7 @@
-# Physics Platformer
+# Jogo 2D
 
-This demo uses [`RigidBody2D`](https://docs.godotengine.org/en/latest/classes/class_rigidbody2d.html)
-for the player and enemies.
-These character controllers are more powerful than
-[`KinematicBody2D`](https://docs.godotengine.org/en/latest/classes/class_kinematicbody2d.html),
-but can be more difficult to handle, as they require
-manual modification of the RigidBody velocity.
 
 Language: GDScript
-
-
 
 ## Como funciona??
 
