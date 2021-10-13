@@ -1,7 +1,7 @@
 # Jogo 2D
 
 
-Language: GDScript
+Languagem: GDScript
 
 ## Como funciona??
 
