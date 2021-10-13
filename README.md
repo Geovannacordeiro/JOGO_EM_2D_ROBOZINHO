@@ -2,6 +2,7 @@
 
 
 Languagem: GDScript
+https://docs.godotengine.org/pt_BR/stable/getting_started/scripting/gdscript/index.html
 
 ## Como funciona??
 
