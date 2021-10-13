@@ -19,6 +19,4 @@ o motor de física, dentro de `_integrate_forces()`.
 
 ![Screenshot of the seesaw and the player riding an enemy](screenshots/seesaw-riding.png)
 
-## Music
 
-"Pompy" by Hubert Lamontagne (madbr) https://soundcloud.com/madbr/pompy
