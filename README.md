@@ -19,9 +19,9 @@ o motor de física, dentro de `_integrate_forces()`.
 
 ![Screenshot of the seesaw and the player riding an enemy](screenshots/seesaw-riding.png)
 
-##Imagens dentro do Aplicativo
+## Imagens dentro do Aplicativo
 
-(<img width="769" alt="imagens do jogo Códigos" src="https://user-images.githubusercontent.com/89104769/137215985-e5d6ec78-c5f7-4be4-8c2f-a98b6433a9c9.png">
-)
+<img width="769" alt="imagens do jogo Códigos" src="https://user-images.githubusercontent.com/89104769/137215985-e5d6ec78-c5f7-4be4-8c2f-a98b6433a9c9.png">
+
 
 
