@@ -1,7 +1,7 @@
 # Jogo 2D
 
 
-Language: [GDScript](https://docs.godotengine.org/pt_BR/stable/getting_started/scripting/visual_script/what_is_visual_scripting.html)
+Language: [GDScript](https://docs.godotengine.org/pt_BR/stable/getting_started/scripting/gdscript/index.html)
 
 
 ## Como funciona??
