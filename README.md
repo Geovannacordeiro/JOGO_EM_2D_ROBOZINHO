@@ -10,7 +10,7 @@ Language: [GDScript](https://docs.godotengine.org/pt_BR/stable/getting_started/s
 
 O jogador e os inimigos usam caráter dinâmico
 controladores de movimento, feitos com
-[`RigidBody2D`](https://docs.godotengine.org/en/latest/classes/class_rigidbody2d.html),
+[`RigidBody2D`](https://docs.godotengine.org/en/latest/tutorials/physics/physics_introduction.html?highlight=RigidBody2D#rigidbody2d),
 o que significa que eles podem interagir perfeitamente com a física
 (há uma gangorra e você pode até montar em inimigos).
 Por causa disso, todo movimento deve ser feito em sincronia com
