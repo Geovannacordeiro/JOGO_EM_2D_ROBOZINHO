@@ -13,7 +13,7 @@ o que significa que eles podem interagir perfeitamente com a física
 Por causa disso, todo movimento deve ser feito em sincronia com
 o motor de física, dentro de `_integrate_forces()`.
 
-## Screenshots
+## Imagens
 
 ![Screenshot of the beginning](screenshots/beginning.png)
 
